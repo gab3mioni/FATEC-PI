@@ -1,9 +1,9 @@
 
 # Introdução
 
-Projeto interdisciplinar e extensão curricular. Desenvolvimento de um chatbot para whatsapp, sistema de gestão de pacientes e agenda inteligente. O primeiro semestre (08/24-12/24) terá foco no levantamento de requisitos, criação de prototipos, diagramas e documentação. O segundo semestre (02/25-06/25) será dedicado ao desenvolvimento do front-end, e o terceiro (08/25-12/25) dedicado ao desenvolvimento e implementação do back-end, além da entrega final.
+Projeto interdisciplinar e extensão curricular do 3°ADS/24 da FATEC Guaratinguetá. O primeiro semestre (08/24-12/24) terá foco no levantamento de requisitos, criação de prototipos, diagramas e documentação. O segundo semestre (02/25-06/25) será dedicado ao desenvolvimento do front-end, e o terceiro (08/25-12/25) dedicado ao desenvolvimento e implementação do back-end, além da entrega final.
 
-O sistema será desenvolvido para atender a gestão de pacientes, geração de relatórios vinculados ao DSM-5, agenda integrada e chatbot para agendamento de consultas via WhatsApp.
+O sistema será desenvolvido para uma psicológa parceira, com o objetivo de atender a gestão de pacientes, geração de relatórios vinculados ao DSM-5, agenda integrada e chatbot para agendamento de consultas via WhatsApp.
 
 ## 🛠️ Construído com
 
