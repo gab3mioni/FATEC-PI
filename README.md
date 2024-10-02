@@ -43,8 +43,8 @@ https://github.com/gab3mioni/FATEC-PI.git
 Nós usamos o [Git 2.45.2](https://git-scm.com/docs) para controle de versão. Para as versões disponíveis, observe as [tags nesse repositório](https://github.com/gab3mioni/FATEC-PI/tags).
 
 ## ✒️ Autores
-* [**Alexandre Ferreira da Silva**]()
-* [**Gabriel Mioni Bastos**](https://github.com/gab3mioni)
+* [**Alexandre Ferreira da Silva**](https://github.com/ale-ferreiras)
 * [**Gabriel de Sousa Castro**](https://github.com/castro-bit)
-* [**Lucas Telli de Castro**]()
+* [**Gabriel Mioni Bastos**](https://github.com/gab3mioni)
+* [**Lucas Telli de Castro**](https://github.com/lctelli)
 * [**Melissa Cristine de Souza Máximo**](https://github.com/MelissaMaximo)
